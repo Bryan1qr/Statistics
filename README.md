@@ -1,1 +1,1 @@
-# EStad-stica-intermedia
+# Estadística de nivel intermedio usando RStudio
